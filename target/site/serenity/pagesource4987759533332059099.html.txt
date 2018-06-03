@@ -1,0 +1,1924 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head class="at-element-marker"><script src="https://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_207.js"></script><script async="" id="db_site_optimization_module" src="https://tag.demandbase.com/shared/siteOptimization.min.js"></script><script type="text/javascript" async="async" src="https://api.demandbase.com/api/v2/ip.js?key=5ac341469d77b9b7904b592f600da2c5&amp;var=s_3_Integrate_Demandbase_get_0&amp;rnd=507963167211"></script><script type="text/javascript" async="async" src="https://fls.doubleclick.net/json?spot=3240192&amp;src=&amp;var=s_3_Integrate_DFA_get_0&amp;host=integrate.112.2o7.net%2Fdfa_echo%3Fvar%3Ds_3_Integrate_DFA_get_0%26AQE%3D1%26A2S%3D1&amp;ord=8794153873243"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-start{border-spacing:1px 1px;-ms-zoom:1.0001;}.ng-animate-active{border-spacing:0px 0px;-ms-zoom:1;}</style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="charset" content="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+        
+        
+            <meta name="description" content="Search 80,000+ tech jobs. Dice.com has business analyst, software engineer, QA jobs and many more. Manage your tech job search and IT career on Dice." />
+            <title>Job Search for Technology Professionals | Dice.com</title>
+        
+    
+    <meta name="google-site-verification" content="nYFZB2o_OTgNCj_VIe2Ef0QjRr6Mkz44yJ8fmF4z3EQ" />
+    <meta name="ompagename" content="homepage" />
+    <meta name="channel" content="tech pro" />
+
+    
+    
+    
+    
+    
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed" />
+<link rel="apple-touch-icon" sizes="57x57" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="//assets.dice.com/techpro/img/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="//assets.dice.com/techpro/img/favicons/favicon-194x194.png" sizes="194x194" />
+<link rel="icon" type="image/png" href="//assets.dice.com/techpro/img/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="//assets.dice.com/techpro/img/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="//assets.dice.com/techpro/img/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="//assets.dice.com/techpro/img/favicons/manifest.json" />
+<link rel="shortcut icon" href="//assets.dice.com/techpro/img/favicons/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="Dice" />
+<meta name="application-name" content="Dice" />
+<meta name="msapplication-TileColor" content="#cc0000" />
+<meta name="msapplication-TileImage" content="//assets.dice.com/techpro/img/favicons/mstile-144x144.png" />
+<meta name="msapplication-config" content="//assets.dice.com/techpro/img/favicons/browserconfig.xml" />
+<meta name="theme-color" content="#cc0000" />
+<script src="https://secure.quantserve.com/aquant.js?a=p-47J7rwq_VoNXI" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/IwYzLGtW.min.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1526338122299/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-5S9HHC&amp;cid=1845211989.1527023779"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.YrtA5yEj3Q0.O/m=client/rt=j/sv=1/d=1/ed=1/am=QQE/rs=AGLTcCN0sMuxpka3R31qPm4lRzkEwQAp8Q/cb=gapi.loaded_0" async=""></script><script src="//jsv3.recruitics.com/b6f8abeb-6d54-11e7-8347-d58e52b2edec.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://se.monetate.net/js/3/a-49445784/p/dice.com/t1484745711/2319a36edf285317/custom.js" charset="utf-8" async=""></script><script async="" src="//d2ncax2u2awrpe.cloudfront.net/2.5.2/sp.js"></script><script type="text/javascript">var signFromGoogleOutVal = false;</script> 
+
+    
+    
+    
+    
+       
+    
+    
+    
+    
+     
+         
+         
+             <link rel="canonical" href="https://www.dice.com" />
+         
+    
+    <link rel="alternate" href="https://www.dice.com" hreflang="en-us" />
+    <link rel="alternate" href="https://uk.dice.com/" hreflang="en-gb" />
+    <link rel="alternate" href="http://de.dice.com/" hreflang="de-de" />
+                
+    <link rel="stylesheet" href="//assets.dice.com/techpro/css/techpro.min.css" />
+    <link rel="stylesheet" href="//assets.dice.com/techpro/css/homepagev2.min.css" />
+    <!-- <link rel="stylesheet" href="//assets.dice.com/techpro/css/homepagev2.css"> -->
+    <link rel="stylesheet" href="//assets.dice.com/techpro/css/universalLoginPanel-homepage.css" />
+    
+        <link rel="stylesheet" href="//assets.dice.com/techpro/css/jquery.typeahead.css" />
+    
+    <script src="//assets.dice.com/techpro/js/vendor/jquery/jquery-1.10.1.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.2/angular.min.js"></script>
+    <script src="//assets.dice.com/techpro/js/vendor/bootstrap/bootstrap.min.js"></script>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="///assets.dice.com/assets/scripts/html5shiv.js"></script>
+        <script src="///assets.dice.com/assets/scripts/respond.min.js"></script>
+
+        <link rel="respond-proxy" href="//assets.dice.com/assets/scripts/respond-proxy.html" id="respond-proxy">
+        <link rel="respond-redirect" href="../profman/assets/scripts/respond.proxy.gif" id="respond-redirect">
+        <script src="//assets.dice.com/assets/scripts/respond.proxy.js"></script>
+    <![endif]-->
+    
+
+
+
+
+
+<script src="//assets.dice.com/techpro/js/global/md5.min.js"></script>
+
+    <script src="//assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/satelliteLib-73044e29039c50f90968e5135f6f50a83641e7f0.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/mbox-contents-8e53ad866dc3755baa23ca583c619889dd932459.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-59a830cf64746d120d00101a.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-55faf6aa6666623c4800090d.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5a81db5f64746d7f13000fa5.js"></script><style id="at-mbox-default-style">.mboxDefault {visibility:hidden;}</style><style>.at-element-marker {visibility:visible;}</style><meta name="google-site-verification" content="4_atcIw9tQXu-llYG2ra88Z7XJIjhid-UeqsXYtHS2E" /><!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">
+var monetateT = new Date().getTime();
+(function() {
+    var p = document.location.protocol;
+    if (p == "http:" || p == "https:") {
+        var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-49445784/p/dice.com/entry.js";
+        var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
+    }
+})();
+</script><script type="text/javascript" src="https://se.monetate.net/js/2/a-49445784/p/dice.com/entry.js"></script>
+<!-- End Monetate tag. --><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-59b7181464746d6e3700cebc.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5747153e64746d6b8a00970f.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-59b1b6cd64746d3832004882.js"></script>
+
+
+<script type="text/javascript">
+    function errorImg(obj) {
+        $(obj).hide();
+        $(obj).parent().siblings('.circle').css("display", "block");
+    }
+
+    var reloading = sessionStorage.getItem("siteRegistration");
+    if (reloading) {
+        var diceId = "";
+        var pageName = sessionStorage.getItem("sitePageName");
+        var email  = "";
+        window.ssdl = window.ssdl || {};
+        if(window.ssdl.trackEvent) {
+            window.ssdl.trackEvent({
+            'action': 'site_registration', // "action" set to the name direct call rule
+                'data': {
+                    'event': 'User Registration',
+                    'user_id': diceId,
+                    'registration_type' : 'tech pro',
+                    'page_name': pageName,
+                    'user_email' : email
+                }
+            });
+        }
+        _satellite.track('siteregistration');
+        sessionStorage.removeItem("siteRegistration");
+        sessionStorage.removeItem("sitePageName");
+        sessionStorage.removeItem("siteEmail");
+    }
+</script>
+
+<style>
+
+	#banner-outer {
+
+		padding: 15px 15px 20px 15px;
+
+		background: #002a40;
+
+	}
+
+
+
+	#banner-wrapper {
+
+		position: relative;
+
+		max-width: 930px;
+
+		margin: auto;
+
+		padding-top: 40px;
+
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+
+		font-weight: 300;
+
+		line-height: 1.4;
+
+	}
+
+
+
+	#banner-close {
+
+		position: absolute;
+
+		top: 0;
+
+		right: 15px;
+
+		font-size: 12px;
+
+		text-decoration: none;
+
+		color: #66ccff;
+
+	}
+
+
+
+	#banner-close img {
+
+		vertical-align: middle;
+
+		margin-left: 10px;
+
+	}
+
+
+
+	#banner-headline {
+
+		margin: 0;
+
+		font-size: 32px;
+
+		line-height: 1.2;
+
+		color: #FFFFFF;
+
+	}
+
+
+
+	#banner-subhead {
+
+		margin: 0 0 10px 0;
+
+		font-size: 16px;
+
+		color: #FFFFFF;
+
+	}
+
+
+
+	#banner-post-btn {
+
+		display:inline-block;
+
+		vertical-align: middle;
+
+		margin: 10px 8px 0 0;
+
+		padding: 6px 10px;
+
+		color: #FFFFFF;
+
+		font-size: 13px;
+
+		font-weight: normal;
+
+		line-height: 1;
+
+		text-transform: uppercase;
+
+		text-decoration: none;
+
+		background: #006699;
+
+	}
+
+
+
+	#banner-post-btn img {
+
+		display: inline-block;
+
+		vertical-align: middle;
+
+		margin-right: 10px;
+
+	}
+
+
+
+	#banner-post-btn span {
+
+		display: inline-block;
+
+		vertical-align: middle;
+
+	}
+
+
+
+	#banner-or {
+
+		display:inline-block;
+
+		vertical-align: middle;
+
+		margin: 10px 8px 0 0;
+
+		font-size: 13px;
+
+		font-weight: normal;
+
+		color: #66ccff;
+
+		text-transform: uppercase;
+
+	}
+
+
+
+
+
+	#banner-search-btn {
+
+		display:inline-block;
+
+		vertical-align: middle;
+
+		margin: 10px 0 0 0;
+
+		padding: 6px 10px;
+
+		color: #FFFFFF;
+
+		font-size: 13px;
+
+		font-weight: normal;
+
+		line-height: 1;
+
+		text-transform: uppercase;
+
+		text-decoration: none;
+
+		background: #006699;
+
+	}
+
+
+
+	#banner-search-btn img {
+
+		display: inline-block;
+
+		vertical-align: middle;
+
+		margin-right: 10px;
+
+	}
+
+
+
+	#banner-search-btn span {
+
+		display: inline-block;
+
+		vertical-align: middle;
+
+	}
+
+
+
+</style><script>
+
+(function(){
+
+	 'use strict';
+
+	 
+
+	 //max. timeout
+
+	  var cnt=6000;
+
+	  function init() {
+
+		  if(typeof jQuery !="undefined"){
+
+			
+
+			// call to change content 
+
+			content_change();
+
+			
+
+			}
+
+		  else{
+
+			  cnt=cnt-500;
+
+			  if(cnt&gt;500)setTimeout(init,500);
+
+			
+
+			  }
+
+			  
+
+	  }
+
+
+
+// function to change your content 
+
+function content_change(){
+
+	
+
+	if(jQuery("#wrapper").length&gt;0){
+
+		var closeprofile2="";
+
+		if(closeprofile2==""){
+
+	    jQuery("#wrapper").prepend("&lt;div id='banner-outer' style='padding: 15px 15px 20px 15px; background: #002a40;'&gt;&lt;div id='banner-wrapper' style='position: relative; max-width: 930px; margin: auto; padding-top: 40px; font-family: HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: 300; line-height: 1.4; background: #002a40;'&gt;&lt;a id='banner-close' style='position: absolute; top: 0; right: 15px; font-size: 12px; text-decoration: none; color: #66ccff;' href='#'&gt;Don't show this message again&lt;img style='vertical-align: middle; margin-left: 10px;'src='https://s3.amazonaws.com/marketing.dice.com/images/icon-close%5B1%5D.png' width='15' height='15'&gt;&lt;/a&gt;&lt;p id='banner-headline' style='margin: 0; font-size: 32px; line-height: 1.2; color: #FFFFFF;'&gt;Are You an Employer?&lt;/p&gt;&lt;p id='banner-subhead' style='margin: 0 0 10px 0; font-size: 16px; color: #FFFFFF;'&gt;Access millions of skilled tech candidates without the unqualified clutter.&lt;/p&gt;&lt;a id='banner-post-btn' style='display:inline-block; vertical-align: middle; margin: 10px 8px 0 0; padding: 6px 10px; color: #FFFFFF; font-size: 13px; font-weight: normal; line-height: 1; text-transform: uppercase; text-decoration: none; background: #006699;' href='http://www.dice.com/products/webstore?icid=OS_HP_UP_EMP_AV_WS'&gt;&lt;img style='display: inline-block; vertical-align: middle; margin-right: 10px;' src='https://s3.amazonaws.com/marketing.dice.com/images/icon-post%5B1%5D.png' width='30' height='30'&gt;&lt;span style='display: inline-block; vertical-align: middle;'&gt;Post a job&lt;/span&gt;&lt;/a&gt;&lt;span id='banner-or' style='display:inline-block; vertical-align: middle; margin: 10px 8px 0 0; font-size: 13px; font-weight: normal; color: #66ccff; text-transform: uppercase;'&gt;Or learn about&lt;/span&gt;&lt;a id='banner-search-btn' style='display:inline-block; vertical-align: middle; margin: 10px 0 0 0; padding: 6px 10px; color: #FFFFFF; font-size: 13px; font-weight: normal; line-height: 1; text-transform: uppercase; text-decoration: none; background: #006699;' href='http://techhub.dice.com/2017-homepagebanner.html?icid=OS_HP_UP_EMP_AV_WB_RP'&gt;&lt;img style='display: inline-block; vertical-align: middle; margin-right: 10px;' src='https://s3.amazonaws.com/marketing.dice.com/images/icon-search%5B1%5D.png' width='35' height='30'&gt;&lt;span style='display: inline-block; vertical-align: middle;'&gt;Searching resumes&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;");
+
+		jQuery('#banner-close').click(function(){
+
+		jQuery('#banner-wrapper').css("display","none");
+
+		var d = document.createElement("div");
+
+		d.id = "mboxCloseTrack_div";
+
+		document.body.appendChild(d);
+
+		mboxDefine("mboxCloseTrack_div", "mboxCloseTrack");
+
+		mboxUpdate('mboxCloseTrack','profile.bannerClose2=true');
+
+});
+
+		}
+
+	}
+
+	else{
+
+		  cnt=cnt-500;
+
+		  if(cnt&gt;500)setTimeout(content_change,500);
+
+		}	
+
+	}
+
+	  
+
+ init();	  
+
+	
+
+	})()
+
+</script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-592df62064746d3fce0017ee.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5a8b5cae64746d60a1003ddf.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5a2ec49664746d351100d249.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5954087664746d329901b314.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5ab584f364746d531f00910b.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-59a4966164746d51ff0009e5.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-59a7298664746d7ae400722d.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5a285bf364746d0864000e58.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5afb0d4f64746d7496009d87.js"></script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/s-code-contents-566e06071eedf0e794ae5fd30a6e9dafe0476a5a.js"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.dice.com" as="script" /><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.dice.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_207.js" async=""></script><link rel="stylesheet" type="text/css" href="https://tag.demandbase.com/shared/siteOptimization.css" /><style type="text/css" media="print">.usabilla_live_button_container { display: none; }</style><style type="text/css">#overlay_DFP_bg{background-color:#000000;width:100%;height:100%;position:fixed;left:0;top:0;z-index:2147483645;filter:alpha(opacity=60);opacity:0.6;}#overlay_form_DFP{position:relative;display:table;border:0px solid gray;padding:0px;margin:0 auto;top:162px;background: white;z-index:2147483646;}#close_DFP_btn{position:absolute;z-index:2147483647;top:10px;margin:0px;padding:5px;cursor:pointer;right:0px;color:white !important}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/31/8d/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/31/8d/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/31/8d/stats.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.dice.com%2F&amp;4sAIzaSyD8B6vEAOqsMlMp2UbY4JmZG2chO-seKkE&amp;callback=_xdc_._r6sctj&amp;token=26887"></script></head>
+<body style=""><div id="lightningjs-usabilla_live" style="display: none;"><div><iframe frameborder="0" id="lightningjs-frame-usabilla_live"></iframe></div></div>
+<input type="hidden" value="true" id="salaryCareerLink" />
+<input type="hidden" id="categorizationTypeahead" value="true" />
+<input type="hidden" id="noPerGrp" value="5" />
+<input type="hidden" id="cookie" value="assets.dice.com/techpro/js/global/cookieConsent.js" />
+<input type="hidden" id="domainPath" value="https://www.dice.com" />
+<style type="text/css">
+    #div-gpt-ad-1484170956870-0, #div-gpt-ad-1485457917153-0 {display:none;}
+    @media (max-width: 992px) {
+        #cPeelDFP {display: none;}
+    }
+</style>
+<!-- /4140/Dice/Dice_Page_Peel -->
+<div id="div-gpt-ad-1484170956870-0">
+</div>
+
+<!-- /4140/Dice/Dice_Page_Peel -->
+<script type="text/javascript"> 
+    var axel = Math.random() + ''; 
+    var a = axel * 10000000000000; 
+    document.write('&lt;img style="display:none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/4140/Dice/Dice_Page_Peel;ord=&amp;#39;' + a + '?" width=1 height=1 border=0/&gt;'); 
+</script><img style="display:none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/4140/Dice/Dice_Page_Peel;ord='5174392857223.404?" width="1" height="1" border="0/" /> 
+<script type="text/javascript">
+    var ssdl = ssdl || {};
+    ssdl.page = ssdl.page || {};
+    ssdl.page.version = 'v2';
+    ssdl.page.pageName = 'homepage';
+</script>
+<noscript> 
+    &lt;img src="https://pubads.g.doubleclick.net/activity;dc_iu=/4140/Dice/Dice_Page_Peel;ord=1?" width=1 height=1 border=0/&gt; 
+</noscript>
+<!-- END /4140/Dice/Dice_Page_Peel -->
+
+<!-- /4140/Dice/Dice_WelcomeAd -->
+<div id="div-gpt-ad-1485457917153-0" data-google-query-id="CPOvpu-emtsCFY8FDAodtyAE5w">
+<div id="google_ads_iframe_/4140/Dice/Dice_WelcomeAd_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Dice_WelcomeAd_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Dice_WelcomeAd_0" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+    <!-- main container of all the page elements -->
+    <input type="hidden" value="" id="postUserId" />
+    <input type="hidden" value="" id="postUserPwd" />
+    <input type="hidden" value="DLIC" id="employerCookieName" />
+    <input type="hidden" value="DLIC_D2SESS" id="employerCookieNameNew" />
+    <input type="hidden" value=".dice.com" id="employerCookieDomain" />
+    <input type="hidden" value="D2SESS" id="employerSessionCookie" />
+    <input type="hidden" value="false" id="errorPresent" />
+    <div id="coockieConsentDiv"></div>
+    <div id="wrapper"><div id="banner-outer" style="padding: 15px 15px 20px 15px; background: #002a40;"><div id="banner-wrapper" style="position: relative; max-width: 930px; margin: auto; padding-top: 40px; font-family: HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: 300; line-height: 1.4; background: #002a40;"><a id="banner-close" style="position: absolute; top: 0; right: 15px; font-size: 12px; text-decoration: none; color: #66ccff;" href="#">Don't show this message again<img style="vertical-align: middle; margin-left: 10px;" src="https://s3.amazonaws.com/marketing.dice.com/images/icon-close%5B1%5D.png" width="15" height="15" /></a><p id="banner-headline" style="margin: 0; font-size: 32px; line-height: 1.2; color: #FFFFFF;">Are You an Employer?</p><p id="banner-subhead" style="margin: 0 0 10px 0; font-size: 16px; color: #FFFFFF;">Access millions of skilled tech candidates without the unqualified clutter.</p><a id="banner-post-btn" style="display:inline-block; vertical-align: middle; margin: 10px 8px 0 0; padding: 6px 10px; color: #FFFFFF; font-size: 13px; font-weight: normal; line-height: 1; text-transform: uppercase; text-decoration: none; background: #006699;" href="http://www.dice.com/products/webstore?icid=OS_HP_UP_EMP_AV_WS"><img style="display: inline-block; vertical-align: middle; margin-right: 10px;" src="https://s3.amazonaws.com/marketing.dice.com/images/icon-post%5B1%5D.png" width="30" height="30" /><span style="display: inline-block; vertical-align: middle;">Post a job</span></a><span id="banner-or" style="display:inline-block; vertical-align: middle; margin: 10px 8px 0 0; font-size: 13px; font-weight: normal; color: #66ccff; text-transform: uppercase;">Or learn about</span><a id="banner-search-btn" style="display:inline-block; vertical-align: middle; margin: 10px 0 0 0; padding: 6px 10px; color: #FFFFFF; font-size: 13px; font-weight: normal; line-height: 1; text-transform: uppercase; text-decoration: none; background: #006699;" href="http://techhub.dice.com/2017-homepagebanner.html?icid=OS_HP_UP_EMP_AV_WB_RP"><img style="display: inline-block; vertical-align: middle; margin-right: 10px;" src="https://s3.amazonaws.com/marketing.dice.com/images/icon-search%5B1%5D.png" width="35" height="30" /><span style="display: inline-block; vertical-align: middle;">Searching resumes</span></a></div></div>
+        <!-- header of the page -->
+        <header id="header">
+            <div class="dice-navbar navbar-default at-element-marker" id="newNav" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        
+                            
+                            
+                                <div class="dice-navbar-brand">
+                                    <a class="logo" href="/" target="_self"></a>
+                                </div>
+                            
+                        
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li>
+                                 <a class="dropdown-toggle smartMenu btn-link" data-target="#smart-toggle1" id="smart-toggle-Career">
+                                    Tech Careers
+                                    <i class="icon-arrow-68" style="display: none;"></i><i class="icon-arrow-67"></i>
+                                </a>
+                                <ul class="dropdown-menu dropdown-smartMenu" id="smart-toggle1" style="">
+                                    <!-- <span class="open"></span> -->
+                                    <li><a href="/jobs" target="_self">Job Search</a></li>
+                                    <li><a href="/skills" target="_self">Skills Center</a></li>
+                                    
+                                        <li><a href="https://www.dice.com/mobile" target="_self">Dice Careers Mobile</a></li>
+                                    
+                                </ul>
+                            </li>
+                            
+                                 
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle smartMenu btn-link" data-target="#smart-toggle2" id="smart-toggle-Career-Explorer">
+                                            Career Explorer
+                                            <i class="icon-arrow-68" style="display: none;"></i><i class="icon-arrow-67"></i>
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-smartMenu" id="smart-toggle2" style="">
+                                            <!-- <span class="open"></span> -->
+                                            <li><a href="/salary-calculator" target="_self"><i class="icon-c icon-bank-notes-1"></i>Salary Predictor</a></li>
+                                            <li><a href=" /career-paths" target="_self"><i class="icon-c icon-road"></i>Career Paths</a></li>
+                                            
+                                                
+                                                
+                                                    <li><a href=" https://insights.dice.com/career-toolkit/ " target="_self"><i class="icon-c icon-newspaper-2"></i>Career Toolkit Articles</a></li>
+                                                
+                                            
+                                        </ul>
+                                    </li>
+                                
+                                
+                            
+                            
+                                
+                                
+                                    <li><a href="https://insights.dice.com/" target="_self">Insights</a></li>
+                                
+                            
+                        </ul>
+                        
+                            
+                            
+                                
+                                
+                                <ul class="nav navbar-nav navbar-right" data-placeholder-live="false">
+                                    
+                                        
+                                        
+                                    
+                                    
+                                        
+                                        
+                                            <li><a href="http://techhub.dice.com/2017-contact-us.html" target="_blank">Contact Sales</a></li>
+                                            <li><a href="https://www.dice.com/products/webstore?icid=OS_HP_UP_EMP_AV_NAV_WS_" target="_self">Post Jobs</a></li>
+                                            <li><a href="/products" target="_self">Talent Solutions</a></li>
+                                        
+                                    
+                                    
+                                     
+                                     
+                                     
+                                     
+                                        
+                                     
+                                        <li class="logindd dropdown">
+                                     
+                                     
+                                         <a class="dropdown-toggle smartMenu btn-link" data-target="#menu_4" id="Login_1">
+                                                Login/Register
+                                                <i class="icon-arrow-68" style="display: none;"></i><i class="icon-arrow-67"></i>
+                                        </a>
+                                        <ul id="menu_4" class="dropdown-menu dropdown-smartMenu" style="">
+                                            <li id="universalLoginPanel">
+                                                <ul class="list-unstyled">
+                                                
+                                                    
+                                                    
+                                                        <li id="universalLoginError" name="universalLoginError" class="error nav-text" style="display:none;"></li>
+                                                    
+                                                
+                                                    <form id="uLogin" class="navbar-form signin" novalidate="novalidate" action="/home/v2/homepage" method="POST">
+                                                        <div class="form-group" id="loginemail-group">
+                                                            <input id="Email_1" name="email" class="form-control" placeholder="Email" type="text" value="" />
+                                                        </div>
+                                                        <div class="form-group" id="loginpassword-group">
+                                                        <input id="Password_1" name="password" class="form-control" placeholder="Password" type="password" value="" />
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <a id="ForgotPassword_1" href="#" class="rightLink">Forgot password?</a>
+                                                        </div>
+                                                        <button id="LoginBtn_1" type="submit" class="btn btn-primary btn-block">Login</button>
+                                                    </form>
+                                                    <li class="nav-text"><a id="SignUpBtn_1" href="/register" class="btn btn-inverse">Register for a Dice account</a></li>
+                                            
+                                            </ul>
+                                            </li>
+                                            <li class="passReset" id="universalLoginForgotPassword" style="display:none">
+                                                <ul class="list-unstyled">
+                                                    <li class="nav-text">
+                                                        <h4>Password Reset</h4>
+                                                        <p>Please choose the appropriate reset process for your account.</p>
+                                                    </li>
+                                                    <li class="nav-text">
+                                                        <a id="Reset_Employer_Password_1" class="btn btn-primary" href="https://employer.dice.com/daf/servlet/DAFctrl?op=1137">
+                                                        Reset Employer Password</a>
+                                                    </li>
+                                                    <li class="nav-text">
+                                                        <a id="Reset_Seeker_Password_1" class="btn btn-primary" href="/utilities/forgotPassword">Reset Job Seeker Password</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    
+                                    
+                                </ul>
+                            
+                            
+                        
+                    </div>
+                </div>
+            </div><div id="action_insert_15264073058661515">
+
+<div style="width:100%; background-color:#CC0000; color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; padding:10px 5px 10px; text-align:center;">
+ 
+Please note that we have updated our <a href="https://www.dice.com/about/privacy" class="at-element-marker"><span style="color:#FFFFFF;"><u><strong>Privacy Policy</strong></u></span></a> and <a href="https://www.dice.com/about/terms_and_conditions" class="at-element-marker"><span style="color:#FFFFFF;"><u><strong>Terms of Use</strong></u></span></a>. Please email <a href="mailto:privacy@dice.com" class="at-element-marker"><span style="color:#FFFFFF;"><u><strong>privacy@dice.com</strong></u></span></a> with any questions.
+ 
+</div>
+ 
+</div>
+
+            <div id="siteMessageArea" align="center" style="z-index:1;"><!--<div style="color:#333; padding:15px; width: 930px; background: #FFFFFF; border-bottom: 1px solid #cccccc;"><strong style="color: #cc0000;">Important notice:</strong> The Dice site will be unavailable on Friday, Jan 23rd starting at 9pm CST through Saturday, Jan 24th at 7am CST while we perform planned storage upgrades. We apologize for any inconvenience.</div>--></div>
+
+        </header>
+
+        <!-- contain banner -->
+        <div class="banner">
+            <div class="banner-content">
+                <div class="container">
+                    <!-- search form -->
+                    <input type="hidden" value="72.66.105.171" id="clientIPAddress" />
+                    <input type="hidden" value="72.66.105.171" id="pcip" />
+                    <input type="hidden" value="http://api.dicealpha.com" id="apiOriginInput" />
+                    <form class="search-form" action="/jobs" method="GET" id="search-form" data-navtrackregion="Job-Search Form">
+                        <fieldset class="row">
+                            <div class="col-xs-12">
+                                <div class="form-group">
+                                    <strong class="title hidden-xs">Search 78,015 tech jobs. Find yours today.</strong>
+                                    <strong class="title visible-xs">Search 78,015 tech jobs. <br /> Find yours today.</strong>
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-md-5 col-sm-5">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <label data-float-label-home="" class="field-label" for="search-field-keyword">Job Title, Skills, Keywords or Company Name</label>
+                                            
+                                                
+                                                    <div class="typeahead__container">
+                                                        <div class="typeahead__field">
+                                                            <span class="typeahead__query">
+                                                                <input type="search" class="form-control input-lg" placeholder="Job Title, Skills, Keywords or Company Name" id="search-field-keyword" name="q" autofocus="" autocomplete="off" />
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                
+                                                
+                                            
+                                            <span class="inputicon-magnifier icon-magnifier"></span>
+                                        </div>
+                                    </div>
+                                    <!-- <div class="help-block">job title, skills, keywords or company name</div> -->
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-md-4 col-sm-4">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            
+                                                
+                                                
+                                                    <label data-float-label-home="" class="field-label field--not-empty" for="search-field-location">Zip Code, City or State</label>
+                                                    <input type="search" class="form-control input-lg" placeholder="Zip Code, City or State" id="search-field-location" name="l" autocomplete="off" />
+                                                    <span class="inputicon-magnifier icon-compass-3"></span>
+                                                
+                                            
+                                        </div>
+                                    </div>
+<!--                                 
+                                    
+                                    
+                                        <div class="help-block">zip code, city or state</div>
+                                    
+                                 -->
+                                </div>
+                            </div>
+                            <div class="col-sm-3 col-md-3 col-lg-2">
+                                <div class="row">
+                                    <div class="col-sm-11 col-xs-12 col-md-12 col-lg-12 findjobs-block">
+                                        <button type="button" onclick="getData()" class="btn btn-primary btn-lg btn-block" id="findTechJobs">Find Tech Jobs</button>
+                                    </div>
+                                    <div class="col-sm-12 col-xs-12">
+                                        <div class="text-right help-block link-as"><a href="/jobs/advancedSearch.html">Advanced Search</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- contain main informative part of the site -->
+        <main id="main" role="main" data-navtrackregion="Salary Career Section">
+            <div class="insights-section">
+                <div class="container">
+                    <div class="row">
+                        <!-- contain the main content of the page -->
+                        <div id="content" class="col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
+                            <section class="content-block latest-insights">
+                                <h2 class="red-headers"><span class="icon-document-1 col-xs-12 visible-xs"></span><span class="icon-document-1 hidden-xs"></span> Tech news and insights<span class="techNews"></span></h2>
+                                <div class="col-sm-12 col-md-8 articles-block">
+                                    <div class="col-sm-6" style="padding-left:0;padding-right:0;">
+                                        <ul class="thumbnails">
+                                            
+                                                <li>
+                                                <div class="thumbnail" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/22/wwdc-2018-expectations-hints-marzipan/" data-navtrackproc="true">
+                                                        <img class="span2" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/IMG_2560-340x150.jpg" alt="Apple WWDC 2015 Marzipan" />
+                                                        <div class="caption">
+                                                            <h4>WWDC 2018: Expectations (and Hints of Marzipan)</h4>
+                                                            <span>Nate Swanner, May 22, 2018</span>
+                                                            <p class="article-des">Apple's huge developer conference is a chance to see what's coming.</p>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                </li>
+                                            
+                                                <li>
+                                                <div class="thumbnail" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/22/how-to-drop-out-of-the-hiring-process-without-burning-bridges/" data-navtrackproc="true">
+                                                        <img class="span2" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/shutterstock_520788688-1-340x150.jpg" alt="" />
+                                                        <div class="caption">
+                                                            <h4>How to Drop Out of the Hiring Process Without Burning Bridges</h4>
+                                                            <span>Leslie Stevens-Huffman, May 22, 2018</span>
+                                                            <p class="article-des">Don't want the job? Here's how to bow out.</p>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                </li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6" style="padding-left:0;padding-right:0;">
+                                        <ul class="thumbnails-sm hidden-xs">
+                                            
+                                                <li class="sm-list" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/22/ios-developer-interview-questions-mastering-trickier-ones/" data-navtrackproc="true">
+                                                    <div class="thumbnail-small right-caption">
+                                                         <img class="span2-small" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/shutterstock_594829253-108x131.jpg" alt="" />
+                                                    </div>
+                                                    <div class="thumbnail-content">
+                                                        <div class="caption-small">
+                                                            <h4>iOS Developer Interview Questions: Mastering the Trickier Ones</h4>
+                                                            <span>Elisabeth Greenbaum Kasson, May 22, 2018</span>
+                                                        </div>
+                                                    </div>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="sm-list" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/21/java-developer-resume-2018/" data-navtrackproc="true">
+                                                    <div class="thumbnail-small right-caption">
+                                                         <img class="span2-small" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Java-Develoepr-Resume-Dice-108x131.jpg" alt="Java Develoepr Resume Dice" />
+                                                    </div>
+                                                    <div class="thumbnail-content">
+                                                        <div class="caption-small">
+                                                            <h4>Java Developer Résumé: How to Make Yours Awesome</h4>
+                                                            <span>Nate Swanner, May 21, 2018</span>
+                                                        </div>
+                                                    </div>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="sm-list" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/21/cryptocurrency-blockchain-survey/" data-navtrackproc="true">
+                                                    <div class="thumbnail-small right-caption">
+                                                         <img class="span2-small" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Cryptocurrency-Bitcoin-Blockchian-Dice-108x131.jpg" alt="Cryptocurrency Bitcoin Blockchain Dice" />
+                                                    </div>
+                                                    <div class="thumbnail-content">
+                                                        <div class="caption-small">
+                                                            <h4>Survey: Do You Even Care About Cryptocurrency?</h4>
+                                                            <span>Nate Swanner, May 21, 2018</span>
+                                                        </div>
+                                                    </div>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="sm-list" data-navtrackregion="Technews and Insights">
+                                                    <a href="https://insights.dice.com/2018/05/21/apple-considering-north-carolina-research-campus-reports/" data-navtrackproc="true">
+                                                    <div class="thumbnail-small right-caption">
+                                                         <img class="span2-small" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/shutterstock_272220959-108x131.jpg" alt="" />
+                                                    </div>
+                                                    <div class="thumbnail-content">
+                                                        <div class="caption-small">
+                                                            <h4>Apple Considering North Carolina Research Campus: Reports</h4>
+                                                            <span>Nick Kolakowski, May 21, 2018</span>
+                                                        </div>
+                                                    </div>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                        <div class="more-block" data-navtrackregion="Technews and Insights">
+                                            
+                                                
+                                                
+                                                    <a class="btn btn-lg more-articles" href="https://insights.dice.com" data-navtrackproc="true">View More Insights Articles</a>
+                                                
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 hidden-sm hidden-xs">
+                                    <div class="col-sm-4" style="padding-left:25px;">
+                                        <!-- contain ads block -->
+                                        <aside id="sidebar" class="col-sm-4 col-sm-offset-0 col-xs-12" style="max-height: 610px;">
+                                            <!-- contain ads block -->
+                                            <div class="ads-block">
+                                                <div class="ad-holder">
+                                                    <div id="div-gpt-ad-1512763481844-0" data-google-query-id="COuvpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/homead_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/homead_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/homead_new_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+                                                </div>
+                                                <div class="ad-holder">
+                                                    <div id="div-gpt-ad-1512762780077-0" data-google-query-id="COyvpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <div id="div-gpt-ad-1512762959662-0" data-google-query-id="CO2vpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo2_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo2_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo2_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <div id="div-gpt-ad-1512763060102-0" data-google-query-id="CO6vpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo3_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo3_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo3_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <div id="div-gpt-ad-1512763160410-0" data-google-query-id="CO-vpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo4_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo4_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo4_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <div id="div-gpt-ad-1512763266749-0" data-google-query-id="CPCvpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo5_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo5_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo5_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <div id="div-gpt-ad-1512763360497-0" data-google-query-id="CPGvpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Homepage_logo6_new_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Homepage_logo6_new_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Homepage_logo6_new_0" width="300" height="55" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+
+                                                    <!-- /4140/Dice/Dice_Page_Peel -->
+                                                    <div id="div-gpt-ad-1464710025913-0" data-google-query-id="CPKvpu-emtsCFY8FDAodtyAE5w"><div id="google_ads_iframe_/4140/Dice/Dice_Page_Peel_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/4140/Dice/Dice_Page_Peel_0" title="3rd party ad content" name="google_ads_iframe_/4140/Dice/Dice_Page_Peel_0" width="50" height="50" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+                                                    <!-- Peel End-->
+
+                                                    <div id="div-gpt-ad-1464284999463-0"></div>
+                                                </div>
+                                            </div>
+                                        </aside>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="register-section">
+                <div class="container" style="padding-left:0px;padding-right:0px;" data-navtrackregion="Register and Sign-in">
+                    <div class="col-sm-12 col-sm-offset-0 col-xs-10 col-xs-offset-1" style="padding-left: 0px;padding-right:0px;" data-navtrackregion="Register and Sign-in">
+                        <section class="content-block register">
+                            <h2 class="register-title">Take your tech career to the next level. Join Dice today.</h2>
+                            <div class="col-sm-3" style="text-align:center;" data-navtrackregion="Register and Sign-in">
+                                <span data-picture="" data-alt="Discover Icon">
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_2.png" data-width="120" data-height="120"></span>
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_2@2x.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="120" data-height="120"><img alt="Discover Icon" width="120" height="120" src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_2@2x.png" /></span>
+                                </span>
+                                <h3 class="register-header">Get discovered by top employers</h3>
+                            </div>
+                            <div class="col-sm-3" style="text-align:center;" data-navtrackregion="Register and Sign-in">
+                                <span data-picture="" data-alt="Bell Icon">
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_5.png" data-width="120" data-height="120"></span>
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_5@2x.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="120" data-height="120"><img alt="Bell Icon" width="120" height="120" src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_5@2x.png" /></span>
+                                </span>
+                                <h3 class="register-header">Receive custom job notifications</h3>
+                            </div>
+                            <div class="col-sm-3" style="text-align:center;" data-navtrackregion="Register and Sign-in">
+                                <span data-picture="" data-alt="Apply Icon">
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_4.png" data-width="120" data-height="120"></span>
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_4@2x.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="120" data-height="120"><img alt="Apply Icon" width="120" height="120" src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_4@2x.png" /></span>
+                                </span>
+                                <h3 class="register-header">Access quick apply options</h3>
+                            </div>
+                            <div class="col-sm-3" style="text-align:center;" data-navtrackregion="Register and Sign-in">
+                                <span data-picture="" data-alt="Salary Icon">
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_3.png" data-width="120" data-height="120"></span>
+                                    <span class="register-icons" data-src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_3@2x.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="120" data-height="120"><img alt="Salary Icon" width="120" height="120" src="//assets.dice.com/techpro/img/homepage/v2_img/ico_valueprop_3@2x.png" /></span>
+                                </span>
+                                
+                                    
+                                    
+                                        <h3 class="register-header">Create personalized salary estimates</h3>
+                                    
+                                
+                            </div>
+                        </section>
+                    </div>
+                    <div class="col-sm-12" style="margin-top:20px;" data-navtrackregion="Register and Sign-in">
+                        <div class="col-sm-6 col-xs-12" style="text-align:right;margin-top: 25px;" data-navtrackregion="Register and Sign-in">
+                            <a href="/register" class="btn btn-lg btn-primary register-btn">Register</a>
+                        </div>
+                        <div class="col-sm-6 col-xs-12" style="text-align:left;margin-top: 25px;" data-navtrackregion="Register and Sign-in">
+                            <a href="/dashboard/login" class="btn btn-lg signin-btn">Sign In</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+                            <section class="content-block companies-using-dice">
+                                <h2 class="red-headers"><span class="icon-building-2 col-xs-12 visible-xs"></span><span class="icon-building-2 hidden-xs"></span> Top companies on Dice</h2>
+                                
+                                    
+                                    
+                                        <ul class="list-inline logos text-center">
+                                            <li class="logo">
+                                                 <a href="/company/delliirc" data-navtrackregion="Top Companies on Dice">
+                                                    <span data-picture="" data-alt="Dell logo">
+                                                        <span data-src="//assets.dice.com/techpro/img/homepage/dell.png" data-width="150" data-height="65"><img alt="Dell logo" width="150" height="65" src="//assets.dice.com/techpro/img/homepage/dell.png" /></span>
+                                                        <!-- <span data-src="//assets.dice.com/content/www/homepage/images/logos/dell-hdpi.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="150" data-height="65"></span> -->
+                                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                                        <span data-src="//assets.dice.com/content/www/homepage/images/logos/amazon.png" data-width="150" data-height="65"></span>
+                                                    <![endif]-->
+                                                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                                                        <noscript>&lt;img src="//assets.dice.com/techpro/img/homepage/dell.png" width="150" height="65" alt="Amazon logo"&gt;</noscript>
+                                                    </span>
+                                                 </a>
+                                            </li>
+                                            <li class="logo">
+                                                <a href="/company/ebay" data-navtrackregion="Top Companies on Dice">
+                                                    <span data-picture="" data-alt="eBay logo">
+                                                        <span data-src="//assets.dice.com/techpro/img/homepage/ebay.png" data-width="150" data-height="65"><img alt="eBay logo" width="150" height="65" src="//assets.dice.com/techpro/img/homepage/ebay.png" /></span>
+                                                     <!--    <span data-src="//assets.dice.com/content/www/homepage/images/logos/ebay-hdpi.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="150" data-height="65"></span> -->
+                                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                                        <span data-src="//assets.dice.com/content/www/homepage/images/logos/ebay.png" data-width="150" data-height="65"></span>
+                                                    <![endif]-->
+                                                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                                                        <noscript>&lt;img src="//assets.dice.com/techpro/img/homepage/ebay.png" width="150" height="65" alt="eBay logo"&gt;</noscript>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="logo">
+                                                <a href="/company/ciscobot" data-navtrackregion="Top Companies on Dice">
+                                                    <span data-picture="" data-alt="Cisco logo">
+                                                        <span data-src="//assets.dice.com/techpro/img/homepage/cisco.png" data-width="150" data-height="65"><img alt="Cisco logo" width="150" height="65" src="//assets.dice.com/techpro/img/homepage/cisco.png" /></span>
+                                                        <!-- <span data-src="//assets.dice.com/content/www/homepage/images/logos/cisco-hdpi.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="150" data-height="65"></span> -->
+                                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                                        <span data-src="//assets.dice.com/content/www/homepage/images/logos/cisco.png" data-width="150" data-height="65"></span>
+                                                    <![endif]-->
+                                                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                                                        <noscript>&lt;img src="//assets.dice.com/techpro/img/homepage/cisco.png" width="150" height="65" alt="Cisco logo"&gt;</noscript>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="logo">
+                                                <a href="/company/10106525" data-navtrackregion="Top Companies on Dice">
+                                                    <span data-picture="" data-alt="Deloitte logo">
+                                                        <span data-src="//assets.dice.com/techpro/img/homepage/deloitte.png" data-width="150" data-height="65"><img alt="Deloitte logo" width="150" height="65" src="//assets.dice.com/techpro/img/homepage/deloitte.png" /></span>
+                                                       <!--  <span data-src="//assets.dice.com/content/www/homepage/images/logos/deloitte-hdpi.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="150" data-height="65"></span> -->
+                                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                                        <span data-src="//assets.dice.com/content/www/homepage/images/logos/deloitte.png" data-width="150" data-height="65"></span>
+                                                    <![endif]-->
+                                                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                                                        <noscript>&lt;img src="//assets.dice.com/techpro/img/homepage/deloitte.png" width="150" height="65" alt="Deloitte logo"&gt;</noscript>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="logo">
+                                                <a href="/company/10109419" data-navtrackregion="Top Companies on Dice">
+                                                    <span data-picture="" data-alt="HP logo">
+                                                        <span data-src="//assets.dice.com/techpro/img/homepage/hp.png" data-width="150" data-height="65"><img alt="HP logo" width="150" height="65" src="//assets.dice.com/techpro/img/homepage/hp.png" /></span>
+                                                 <!--        <span data-src="//assets.dice.com/content/www/homepage/images/logos/hp-hdpi.png" data-media="(min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" data-width="150" data-height="65"></span> -->
+                                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                                        <span data-src="//assets.dice.com/content/www/homepage/images/logos/hp.png" data-width="150" data-height="65"></span>
+                                                    <![endif]-->
+                                                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                                                        <noscript>&lt;img src="//assets.dice.com/techpro/img/homepage/hp.png" width="150" height="65" alt=""HP logo"&gt;</noscript>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    
+                                
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="salary-career-section">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-6 sc-box box1-image">
+                        </div>
+                        <div class="col-sm-6 sc-box sc-box-right">
+                            <h3 class="sc-header">Beat your competition</h3>
+                            
+                                
+                                
+                                    <p class="sc-description">We've got answers to all your burning questions on interviews, resumes, networking, and job hunting skills.</p>
+                                
+                            
+                            <a href="https://insights.dice.com/career-toolkit/" class="btn btn-lg sc-btn-right" data-navtrackproc="true">Career Toolkit</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        
+                            
+                            
+                                <div class="col-sm-6 sc-box-right1 box2-image visible-xs">
+                                </div>
+                                <div class="col-sm-6 sc-box sc-box-left">
+                                    <h3 class="sc-header">Know your worth</h3>
+                                    <p class="sc-description salPredictorBox">Predict the salary you can earn based on your unique skillset, job title, experience, and location.</p>
+                                    <a href="/salary-calculator" class="btn btn-lg sc-btn-left">Salary Predictor</a>
+                                </div>
+                                <div class="col-sm-6 sc-box-right1 box2-image hidden-xs">
+                                </div>
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="testimonials-section">
+                <div class="container">
+                    <div id="myCarousel" class="col-sm-12 col-md-8 col-lg-8 col-md-push-2 col-lg-push-2 carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                          <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+                            <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                          </ol>
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-sm-12 col-md-3 col-lg-3 text-center">
+                                       <img src="//assets.dice.com/techpro/img/adscore/seeker_one.jpg" align="middle" />
+                                    </div>
+                                    <div class="col-sm-12 col-md-9 col-lg-9 item-content">
+                                        <p class="testimonials_txt">"I followed a link for a job on Dice and uploaded my resume. About two hours later. I received an email from an employer looking for someone with my skills.
+                                        In a week's time and four interviews later I have a fantastic new job!!
+                                        Thanks Dice!!"</p>
+                                        <p class="pull-left testimonials_name">Linda, NERC CIP Consultant</p>
+                                    </div>
+                                </div>
+                            </div>
+                         <!--  item -->
+                            <div class="item active">
+                               <div class="row">
+                                    <div class="col-sm-12 col-md-3 col-lg-3 text-center">
+                                       <img src="//assets.dice.com/techpro/img/adscore/seeker_two.jpg" align="middle" />
+                                    </div>
+                                    <div class="col-sm-12 col-md-9 col-lg-9 item-content">
+                                        <p class="testimonials_txt">"I had my resume public on Dice for only two days and I got flooded with interviews from serious competitive employers that resulted in me choosing between very tempting offers. Don't waste your time. Go Dice.
+                                        It's real"</p>
+                                        <p class="pull-left testimonials_name">Daniel, Consultant</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                               <div class="row">
+                                    <div class="col-sm-12 col-md-3 col-lg-3 text-center">
+                                       <img src="//assets.dice.com/techpro/img/adscore/seeker_three.jpg" align="middle" />
+                                    </div>
+                                    <div class="col-sm-12 col-md-9 col-lg-9 item-content">
+                                        <p class="testimonials_txt">"I found my current Job on Dice. I applied and got a reply from the company within one day. Hired within the week. No other job site has as many tech jobs as Dice."</p>
+                                        <p class="pull-left testimonials_name">Sarah, Business Analyst</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                               <div class="row">
+                                    <div class="col-sm-12 col-md-3 col-lg-3 text-center">
+                                       <img src="//assets.dice.com/techpro/img/adscore/seeker_four.jpg" align="middle" />
+                                    </div>
+                                    <div class="col-sm-12 col-md-9 col-lg-9 item-content">
+                                        <p class="testimonials_txt">"I uploaded my resume on Dice and within that week had several emails and calls about opportunities from recruiters. I decided to pursue an opportunity with HP and started working there that same month. Excellent site!"</p>
+                                        <p class="pull-left testimonials_name">Jason, Firewall Engineer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="salary-career-section">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-6 sc-box-right1 box3-image visible-xs">
+                        </div>
+                        <div class="col-sm-6 sc-box sc-box-left">
+                            <h3 class="sc-header">Understand your next move</h3>
+                            <p class="sc-description">Explore career growth opportunities, and find out which skills you'll need to get there.</p>
+                            <a href="/career-paths" class="btn btn-lg sc-btn-left">Career Paths</a>
+                        </div>
+                        <div class="col-sm-6 sc-box-right1 box3-image hidden-xs">
+                        </div>
+                    </div>
+                    
+                        
+                        
+                            <div class="col-sm-12">
+                                <div class="col-sm-6 sc-box box4-image">
+                                </div>
+                                <div class="col-sm-6 sc-box sc-box-right1">
+                                    <h3 class="sc-header">Take Dice on the go</h3>
+                                    <p class="sc-description mobileBox">The Dice mobile app is your tech career toolkit on the go! Access all the Dice.com features on your mobile device.</p>
+                                    <a href="/mobile" class="btn btn-lg sc-btn-right">Mobile App</a>
+                                </div>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+            <div class="looking-hire-section">
+                <div class="container">
+                    <div class="col-sm-12 col-sm-offset-0 col-xs-12" style="padding-left:0px;padding-right:0px;">
+                        <section class="content-block looking-hire">
+                            <h3 class="looking-hire-header">Looking to hire instead?</h3>
+                            
+                                
+                                
+                                    <p class="looking-hire-description">Find great tech talent with customizable solutions from Dice.</p>
+                                
+                            
+                        </section>
+                        <div class="col-sm-12" style="margin-top:20px;">
+                            <div class="col-sm-6 col-xs-12" style="text-align:right;" data-navtrackregion="Employer Register and Sign-In">
+                                <a href="/products" class="btn btn-lg explore-link getStartedBtn">Get Started</a>
+                            </div>
+                            <div class="col-sm-6 col-xs-12" style="text-align:left;" data-navtrackregion="Employer Register and Sign-In">
+                                
+                                    
+                                    
+                                        <a href="https://www.dice.com/employer" class="btn btn-lg explore-link employer-sign">Employer Sign In</a>
+                                    
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trending-section">
+                <div class="container">
+                    <div class="col-sm-12 col-sm-offset-0 col-xs-10 col-xs-offset-1" style="padding-left: 0px;">
+                        <section class="content-block trending-searches">
+                            <h2 class="red-headers"><span class="icon-business-chart-2 col-xs-12 visible-xs"></span><span class="icon-business-chart-2 hidden-xs"></span> Trending searches</h2>
+                            <div class="row trending-box" id="cdq_element_257">
+                                <ul class="nav nav-tabs" role="tablist" id="trending-tabs">
+                                    <li role="presentation" class="active" data-navtrackregion="Trending Searches on Dice"><a href="#byTitle" aria-controls="settings" role="tab" data-toggle="tab">Jobs by Title</a></li>
+                                    <li role="presentation" data-navtrackregion="Trending Searches on Dice"><a href="#bySkill" aria-controls="settings" role="tab" data-toggle="tab">Jobs by Skill</a></li>
+                                    <li role="presentation" data-navtrackregion="Trending Searches on Dice"><a href="#byLocation" aria-controls="settings" role="tab" data-toggle="tab">Jobs by Location</a></li>
+                                    <li role="presentation" data-navtrackregion="Trending Searches on Dice"><a href="#byPopular" aria-controls="settings" role="tab" data-toggle="tab">Popular Searches</a></li>
+                                </ul>
+                                <div class="tab-content">
+                                    <div class="tab-pane active" id="byTitle" data-navtrackregion="Trending Searches on Dice">
+                                        <div class="col-md-3 col-sm-6" style="display: block;">
+                                            <ul class="list-unstyled jobs-list" style="display: block;">
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Developer-jobs">Developer Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Consultant-jobs">IT Consultant Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Software_Developer-jobs">Software Developer Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-C%23_Developer-jobs">C# Developer Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-.NET-jobs">.NET Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Project_Manager-jobs">Project Manager Jobs</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="view-more-trending">
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Linux_Developer-jobs">Linux Developer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Administrator-jobs">IT Administrator Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Java_Developer-jobs">Java Developer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-CRM-jobs">CRM Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Business_Analyst-jobs">Business Analyst Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Support-jobs">IT Support Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Hardware_Engineer-jobs">Hardware Engineer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Tester-jobs">IT Tester Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Network_Engineer-jobs">Network Engineer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Helpdesk-jobs">IT Helpdesk Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Test_Analyst-jobs">Test Analyst Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Data_Analyst-jobs">Data Analyst Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-DBA-jobs">DBA Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Director-jobs">IT Director Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Games_Programmer-jobs">Games Programmer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Manager-jobs">IT Manager Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-GIS-jobs">GIS Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Oracle_DBA-jobs">Oracle DBA Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <a class="view-more-link">View More</a>
+                                    </div>
+                                    <div class="tab-pane" id="bySkill" data-navtrackregion="Trending Searches on Dice">
+                                        <div class="col-md-3 col-sm-6" style="display: block;">
+                                            <ul class="list-unstyled jobs-list" style="display: block;">
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Developer-jobs">Developer Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Technical_Support-jobs">Technical Support Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Agile-jobs">Agile Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-IT_Security-jobs">IT Security Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Computer-jobs">Computer Jobs</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="view-more-trending">
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Network-jobs">Network Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Java-jobs">Java Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Front_End-jobs">Front End Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Python-jobs">Python Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Hardware-jobs">Hardware Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Data_Analysis-jobs">Data Analysis Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-PHP-jobs">PHP Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-C++-jobs">C++ Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Oracle-jobs">Oracle Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Cisco-jobs">Cisco Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Back_End-jobs">Back End Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-QA-jobs">QA Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-iOS-jobs">iOS Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Android-jobs">Android Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Hadoop-jobs">Hadoop Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <a class="view-more-link">View More</a>
+                                    </div>
+                                    <div class="tab-pane" id="byLocation" data-navtrackregion="Trending Searches on Dice">
+                                        
+                                            
+                                            
+                                                <div class="col-md-3 col-sm-6" style="display: block;">
+                                                    <ul class="list-unstyled jobs-list" style="display: block;">
+                                                        <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Boston%2C+MA-jobs">Boston, MA</a></li>
+                                                        <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Baltimore%2C+MD-jobs">Baltimore, MD</a></li>
+                                                        <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Atlanta%2C+GA-jobs">Atlanta, GA</a></li>
+                                                        <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-San_Jose%2C+CA-jobs">San Jose, CA</a></li>
+                                                        <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Los_Angeles%2C+CA-jobs">Los Angeles, CA</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="view-more-trending">
+                                                    <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                        <ul class="list-unstyled jobs-list" style="display: block;">
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Chicago%2C+IL-jobs">Chicago, IL</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Houston%2C+TX-jobs">Houston, TX</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Phoenix%2C+AZ-jobs">Phoenix, AZ</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Philadelphia%2C+PA-jobs">Philadelphia, PA</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Seattle%2C+WA-jobs">Seattle, WA</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                        <ul class="list-unstyled jobs-list" style="display: block;">
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Washington%2C+DC-jobs">Washington, DC</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Denver%2C+CO-jobs">Denver, CO</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Austin%2C+TX-jobs">Austin, TX</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-San_Francisco%2C+CA-jobs">San Francisco, CA</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-New_York%2C+NY-jobs">New York, NY</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                        <ul class="list-unstyled jobs-list" style="display: block;">
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-San_Diego%2C+CA-jobs">San Diego, CA</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Dallas%2C+TX-jobs">Dallas, TX</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Indianapolis%2C+IN-jobs">Indianapolis, IN</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Forth_Worth%2C+TX-jobs">Fort Worth, TX</a></li>
+                                                            <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/l-Charlotte%2C+NC-jobs">Charlotte, NC</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            
+                                        
+                                        <a class="view-more-link">View More</a>
+                                    </div>
+                                    <div class="tab-pane" id="byPopular" data-navtrackregion="Trending Searches on Dice">
+                                        <div class="col-md-3 col-sm-6" style="display: block;">
+                                            <ul class="list-unstyled jobs-list" style="display: block;">
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Developer-jobs">Developer Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Support-jobs">Support Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Testing-jobs">Testing Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-C-jobs">C Jobs</a></li>
+                                                <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-SQL-jobs">SQL Jobs</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="view-more-trending">
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Java-jobs">Java Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Analyst-jobs">Analyst Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-.NET-jobs">.NET Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Project_Manager-jobs">Project Manager Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-PHP-jobs">PHP Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-SAP-jobs">SAP Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Business_Analyst-jobs">Business Analyst Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Oracle-jobs">Oracle Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Bsuiness_Intelligence-jobs">Business Intelligence Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Cisco-jobs">Cisco Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6" style="display: block;padding-right: 0px;">
+                                                <ul class="list-unstyled jobs-list" style="display: block;">
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Graduate-jobs">Graduate Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Director-jobs">Director Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-QA-jobs">QA Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Network_Engineer-jobs">Network Engineer Jobs</a></li>
+                                                    <li data-navtrackregion="Trending Searches on Dice"><a href="/jobs/q-Programme_Manager-jobs">Programme Manager Jobs</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <a class="view-more-link">View More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" id="locale" value="false" />
+        </main>
+        <div class="modal fade" id="CookiePolicyOverlay" tabindex="-1" role="dialog" aria-labelledby="cookiePolicyLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                        <div class="dice-navbar-brand">
+                            <a class="logo" href="/" target="_self"></a>
+                        </div>
+                        <h4 class="modal-title marginTop10" id="CookiePolicyModalTitle">Cookies on Dice</h4>
+                    </div>
+                    <div class="modal-body" style="color:#000">
+                        <h4>WHAT ARE COOKIES?</h4><br /><br /> A cookie is a small file of letters and numbers that we
+                            store on your browser or the hard drive of your computer if you
+                            agree. Cookies contain information that is transferred to your
+                            computer's hard drive.<br />
+                            <br />
+
+                            <h4>WHAT TYPES OF COOKIES DO WE USE?</h4>
+                            <br />
+                            <br /> We use two types of cookies on our website:<br />
+                            <br /> 'Session Cookies'<br /> These are temporary cookies,
+                            which only exist in the period you access the website (or more
+                            strictly, until you close the browser after accessing the website).
+                            Session cookies help our website remember what you chose on the
+                            previous page, therefore avoiding having to re-enter information. On
+                            our website, these cookies do not contain personal information, and
+                            cannot be used to identify you.<br />
+                            <br /> 'Persistent Cookies'<br /> These are cookies remain on
+                            your device after you have visited our website. These cookies help
+                            us to identify you as a unique visitor (by storing a randomly
+                            generated number).<br />
+                            <br />
+
+                            <h4>WHY DO WE USE COOKIES?</h4>
+                            <br />
+                            <br /> To tailor our website so that it meets your specific
+                            needs, we use different technologies, including cookies, which allow
+                            us to distinguish you from other users of our website.<br />
+                            <br /> We use cookies: To recognise and count the number of
+                            visitors and pages or various parts of a page they have visited on
+                            our site;To see how visitors move around the site when they are
+                            using it, for example, we use Google Analytics, a popular web
+                            analytics service provided by Google Inc. Google Analytics uses
+                            cookies to help us to analyse how visitors use our site. This helps
+                            us to improve the way our website works, for example, by ensuring
+                            that visitors are finding what they are looking for easily. Find our
+                            more about how these cookies are used on 
+                            <a href="http://tools.google.com/dlpage/gaoptout?hl=en" target="_blank" mce_href="http://tools.google.com/dlpage/gaoptout?hl=en">
+                              Google's Privacy site.</a>
+                            To improve and monitor the advertisement we offer to
+                            our visitors. We also use Google's DoubleClick, which is one of the
+                            worlds leading provider for ad management and ad serving solutions.
+                            vLike most websites and search engines, Google uses cookies in order
+                            to provide a better user experience and to serve relevant ads. Find
+                            out more about how these cookies are used 
+                            <a href="http://www.google.co.uk/doubleclick" target="_blank" mce_href="http://www.google.co.uk/doubleclick">click here</a>.
+                            To present our visitors with the most appropriate advertising banners
+                            and content, based on our visitor's interest and activity, we, for
+                            example use Yahoo! Search Marketing, search marketing tool of Yahoo!
+                            (including Overture Search Services (Ireland) Limited). On behalf of
+                            Dice Careers Limited, Yahoo! Search Marketing will use this
+                            information to help us monitor the performance of our online
+                            marketing campaigns. For more information about how Yahoo! uses
+                            information supplied on Yahoo! Advertising Solutions web sites,
+                            please read the 
+                            <a href="http://info.yahoo.com/privacy/us/yahoo/yas/details.html" target="_blank">Yahoo! Advertising Solutions Privacy Policy</a>.<br />
+                            In summary, by using cookies we are able to improve your experience
+                            when you browse our website and enable us to continually improve our
+                            site and our services for you. Our cookies have been set in our
+                            browser and we will assume you are ok with them via your continuous
+                            use of our website. You can disable certain cookies as set out
+                            below. If you disable these cookies we cannot guarantee how the site
+                            will perform for you.<br />
+                            <br />
+
+                            <h4>MANAGING YOUR COOKIES</h4>
+                            <br />
+                            <br /> Enabling cookies will ensure you receive the optimum user
+                            experience from our website.<br />
+                            <br /> Most browsers automatically accept cookies, but you can
+                            deactivate this function at any time and set your browser to notify
+                            you whenever a cookie is sent. You can use your browser settings to
+                            block all or some cookies. Please note that if you do block all
+                            cookies you may not be able to access all or parts of our site.<br />
+                            <br /> Most browsers automatically accept cookies, but you can
+                            deactivate this function at any time and set your browser to notify
+                            you whenever a cookie is sent. You can use your browser settings to
+                            block all or some cookies. Please note that if you do block all
+                            cookies you may not be able to access all or parts of our site.<br />
+                            <br /> Amending your cookie settings is different in different
+                            browsers, for ease, we've included instructions on amending your
+                            settings in the most popular browsers below:<br />
+                            <br />
+
+                            <h4>OPT-OUT FROM GOOGLE'S DOUBLECLICK</h4>
+                            <br />
+                            <br /> Anyone who prefers not use Google's DoubleClick cookie can
+                            opt out. This opt-out will be specific only to the browser that you
+                            are using when you click the "Opt out"
+                            button.http://www.google.co.uk/policies/privacy/ads/<br />
+                            <br />
+
+                            <h4>OPT-OUT YAHOO! SEARCH MARKETING</h4>
+                            <br />
+                            <br /> If you choose, you may opt-out from Yahoo! Search
+                            Marketing using information collected with web beacons and cookies
+                            outside of the Yahoo! network of web sites. Cookies will need to be
+                            enabled for the opt-out to function.<br />
+                            <br /> Note: This opt-out applies to a specific browser rather
+                            than a specific user. Therefore you will need to opt-out separately
+                            from each computer or browser that you use. Additionally, the
+                            opt-out only applies to cookies used by perf.overture.com and not
+                            all cookies set by overture.com.<br />
+                            <br /> How to check cookies are enabled on windows platforms<br />
+                            <br /> Microsoft Internet Explorer 7, 8 &amp; 9<br /> 1.
+                            Select 'Tools' from the top menu of your browser and then select
+                            'Internet options', then click on the 'Privacy' tab 2. Ensure that
+                            your Privacy level is set to Medium or below, which will enable
+                            cookies in your browser 3. Settings above Medium will disable
+                            cookies<br />
+                            <br /> Mozilla Firefox<br /> 1. Select 'Tools' from the top
+                            menu of your browser and then select 'Options' 2. Then select the
+                            Privacy icon 3. Click on Cookies, then select 'allow sites to set
+                            cookies'<br />
+                            <br /> Google Chrome<br /> 1. Select 'Tools' from the top menu
+                            of your browser and then select 'Options' 2. Click the 'Under the
+                            Hood' tab, locate the 'Privacy' section, and select the 'Content
+                            settings' button 3. Now select 'Allow local data to be set'<br />
+                            <br /> Safari<br /> 1. Select the cog icon' from the top menu
+                            of your browser and then select 'Preferences' 2. Select 'Security
+                            and, check the option that says 'Block third-party and advertising
+                            cookies' 3. Click 'Save' How to check cookies are enabled for apple
+                            platforms Microsoft Internet Explorer 5.0 on OSX 1. Select
+                            'Explorer' from the top menu of your browser and select
+                            'Preferences' options 2 Scroll to the 'Cookies' option under
+                            Receiving Files 2. Select the 'Never Ask' option<br />
+                            <br /> Safari on OSX<br /> 1. Select 'Safari' from the top
+                            menu of your browser and select the 'Preferences' option 2. Click on
+                            'Security' then 'Accept cookies' 3. Select the 'Only from site you
+                            navigate to'<br />
+                            <br />
+                      </div>
+                      <div class="modal-footer">
+                          <button type="button" class="btn btn-primary" id="CloseCookieConsentPolicy" data-dismiss="modal">Close</button>
+                          <button href="javascript:void()" class="btn btn-success" data-dismiss="modal" onclick="agreePolicy()" id="agreePolicyModal">
+                          I Accept
+                          </button>
+                      </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+
+
+
+
+<!-- BEGIN FOOTER -->
+
+
+<style type="text/css">
+
+.has-feedback .input-lg ~ .form-control-feedback {
+	height: 45px;
+	line-height: 45px;
+}
+
+.has-error .form-control-feedback {
+	color: #FFF;
+	background-color: #C00;
+}
+
+.glypSpan{
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
+
+.errMsgColor{
+    color: #c00;
+}
+.glyphicon-question-sign{
+	border:4px solid green;
+}
+.my-icon &gt; .popover {
+ height:320px;
+ width:300px;
+ top:-320px !important;
+ left:-240px !important;
+ background-color:#FFFFFF !important;
+ }
+ .my-icon &gt; .popover &gt; .popover-title{
+     background-color: #FFFFFF !important;
+	 color:#000000;
+	 height: 35px;
+     padding-top: 0px;
+     border: none;
+ }
+ .my-icon &gt; .popover &gt; .popover-content {
+	background-color:#FFFFFF !important;
+	color:#000000;
+	padding-left:0px;
+ }
+.my-icon &gt; .popover &gt; .arrow {
+    bottom: -11px !important;
+    left: 256px !important;
+}
+.my-icon.my-bottom-right {
+    bottom: 10px;
+    right: 12px;
+}
+.popover-margin-bottom{
+	margin-bottom:20px !important;
+}
+
+.my-icon {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    -moz-transition: all 300ms;
+    -o-transition: all 300ms;
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+    width: 39px;
+    height: 39px;
+    position: fixed;
+    z-index: 100002;
+    -moz-transition: opacity 100ms;
+    -o-transition: opacity 100ms;
+    -webkit-transition: opacity 100ms;
+    transition: opacity 100ms;
+}
+#feedbackmessage:focus{
+	border-color:#75d175;
+}
+#feedbackEmail:focus{
+	border-color:#75d175;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+
+</style>
+
+
+
+<footer class="dice-footer">
+
+	  <div class="container">
+	    <div class="row">
+			<input type="hidden" id="localDomain" value="www.dice.com" />
+				<div class="logo-column">
+					<a class="logo" href="/" target="_self">Dice</a>
+				</div>
+
+	      <div class="links column">
+	        <h5 data-toggle="collapse" data-target="#learn-about-dice">Learn About Dice <span class="icon-arrow-circle-29 toggle-icon"></span></h5>
+	        <div id="learn-about-dice" class="in">
+	          <div class="padding-container">
+				
+					<a href="http://www.dhigroupinc.com/home-page/default.aspx" target="_BLANK">About Us</a>
+					<a href="http://media.dice.com/" target="_BLANK">Company Profile</a>
+				
+	            <!-- <a href="https://employer.dice.com/daf/newContactDice.html" target="_BLANK" >Contact Sales</a> -->
+	            
+	            <!-- <a href="http://media.dice.com/diceinthenews/" target="_BLANK">Dice in the News</a> -->
+	            
+	                
+	                
+	                    <a href="http://techhub.dice.com/2017-contact-us.html" target="_BLANK">Contact Sales</a>
+	                    <a href="/products/open-web?op=15&amp;mboxSession=7d7bb84486fd4afd9c37eb6c540f702c" target="_BLANK">Social Recruiting</a>
+	                    <a href="http://www.dhigroupinc.com/careers/default.aspx" target="_BLANK">Work at Dice</a>
+	                
+                
+                
+	                
+	                
+		                <a href="/about/privacy" target="_BLANK">Privacy Policy</a>
+	                
+                
+                    <a href="/about/contactus" target="_BLANK">Contact Us</a>
+	          </div>
+	        </div>
+	      </div>
+
+	      <div class="links column">
+	        <h5 data-toggle="collapse" data-target="#dice-services">Dice Services <span class="icon-arrow-circle-29 toggle-icon"></span></h5>
+	        <div id="dice-services" class="in">
+	          <div class="padding-container">
+	            <a href="http://media.dice.com/category/the-dice-report/" target="_BLANK">The Dice Report</a>
+	            <a href="/products/open-web?op=15&amp;mboxSession=7d7bb84486fd4afd9c37eb6c540f702c" target="_BLANK">Open Web</a>
+	            <a href="/jobs/browsejobs" target="_self">Browse Jobs</a>
+                <a href="/jobs/browsejobs/q-company-dc-pound-jobs" target="_self">Browse Companies</a>
+                <a href="/skills" target="_self">Skills Center</a>
+	            <!-- <a href="/products/gdpr" target="_BLANK">GDPR</a> -->
+	          </div>
+	        </div>
+	      </div>
+
+		<div class="links column">
+			<h5 data-toggle="collapse" data-target="#dice-sites">Dice Sites <span class="icon-arrow-circle-29 toggle-icon"></span></h5>
+			<div id="dice-sites" class="in">
+				<div class="padding-container">
+				<!-- <a href="http://slashdot.org/" target="_BLANK">Slashdot</a>
+				<a href="http://sourceforge.net/" target="_BLANK">SourceForge</a> -->
+				
+					
+						<a href="http://de.dice.com/">Dice DE</a>
+						<a href="http://sap.dice.com/">Dice SAP</a>
+						<div class="diceUkLink"><a class="diceUkAnchor" href="http://uk.dice.com/">Dice<span class="countryCode"> UK </span></a></div>
+					
+					
+				
+				</div>
+				</div>
+		</div>
+
+	      <div class="social">
+	        <h5 data-toggle="collapse" data-target="#dice-everywhere">Dice Everywhere <span class="icon-arrow-circle-29 toggle-icon"></span></h5>
+	        <div id="dice-everywhere" class="in">
+	          <div class="padding-container">
+	            
+                    
+                    
+                       <a href="https://twitter.com/Dicedotcom" class="social-icon twitter">Twitter</a>
+	                   <a href="https://www.facebook.com/dice" class="social-icon facebook">Facebook</a>
+	                   <a href="https://plus.google.com/+Dice/posts" class="social-icon google-plus">Google Plus</a>
+		               <a href="http://c00.adobe.com/d53bf41a-0d61-47b4-b7f1-6df9b46831cf/DI_OS_UN_MA_UP/i/794201100" class="app-store-link app-store">App Store</a>
+                       <a href="http://c00.adobe.com/d53bf41a-0d61-47b4-b7f1-6df9b46831cf/DI_OS_UN_MA_UP/g/com.dice.app.jobs" class="app-store-link google-play">Google Play</a>
+                    
+                
+	          </div>
+	        </div>
+	      </div>
+
+	    </div>
+	  </div>
+
+	  <div class="copyright">
+	    <div class="container">
+	      <p>Copyright ©1990 - 2018 Dice. All rights reserved. Use of this site is subject to certain <a href="/about/terms_and_conditions" target="_BLANK">Terms and Conditions</a>.</p>
+	      <p><span class="icon-dhi-logo dhi-logo"></span><span class="dhi-footer-text">Dice is a <a href="http://www.dhigroupinc.com">DHI Service</a></span></p>
+	    </div>
+	  </div>
+
+      
+          <script src="//assets.dice.com/techpro/js/global/jquery.typeahead.js"></script>
+      
+</footer>
+
+<!-- END FOOTER -->
+<!-- sign In applyModal Modal -->
+<div class="modal fade" id="applyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<input type="hidden" id="hideButtonStatus" />
+	<div class="modal-dialog modalWidth">
+		<div class="modal-content">
+			<div class="modal-header">
+				<meta name="ompagename" content="quick_login_register_modal" />
+				<meta name="channel" content="tech pro" />
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				<h4 class="modal-title" style="font-style: italic;">Sign In To Use This Feature</h4>
+			</div>
+			<div class="modal-body">
+				<form id="email-job-form" class="form-horizontal">
+					<div style="display: none;" id="error-alert" class="alert alert-danger"></div>
+
+					<div class="form-group has-feedback">
+						<div class="col-md-8" id="emailDiv">
+							<label data-float-label="" for="email">Email</label>
+							<input id="mEmail" class="form-control input-lg" name="email" type="text" maxlength="70" placeholder="Email" />
+							<span id="emailSpan" class="form-control-feedback glyphicon glypSpan"></span>
+						</div>
+						<div class="col-md-4 errMsgColor" id="emailFeedbackMessage" style="display: none">
+							<span>Enter a valid email.</span>
+						</div>
+					</div>
+					<div class="form-group has-feedback">
+						<div class="col-md-8" id="passDiv">
+							<label data-float-label="" for="password">Password</label>
+							<input id="mPassword" class="form-control input-lg" name="toAddress" type="password" maxlength="256" placeholder="Password" />
+							<span id="passSpan" class="form-control-feedback glyphicon glypSpan"></span>
+						</div>
+						<div class="col-md-4 errMsgColor" id="passFeedbackMessage" style="display: none">
+							<span>8 character minimum with at least 1 number and 1 letter.</span>
+						</div>
+					</div>
+					<div class="form-group">
+						<div class="col-md-8">
+							<p class="pull-right">
+								<a href="http://www.dice.com/utilities/forgotPassword" target="_blank">Forgot Password?</a>
+							</p>
+						</div>
+					</div>
+				</form>
+			</div>
+			<div class="modal-footer footr" style="margin-top: 0;">
+				<div class="row">
+					<!-- <div class="col-sm-4"><p class=""><a href="http://www.dice.com/utilities/forgotPassword" target="_blank">Forgot Password?</a></p></div> -->
+					<div class="col-md-2 col-sm-6 col-xs-12">
+						<button id="signBtnId" type="button" class="btn btn-primary btn-lg" onclick="loginSubmit();" style="background-color: #006699">Sign In</button>
+					</div>
+					<div class="col-md-1">
+						<span id="loginLoaderImg" style="display: none; line-height: 38px;"><img src="//assets.dice.com/techpro/img/loading24px.gif" alt="Loading" /></span>
+					</div>
+					<div class="col-md-2" id="skipBtn"></div>
+					<div class="col-md-7  col-sm-6 col-xs-12">
+						<span class="pull-right" style="line-height: 38px;">
+							Don't have an account? <a href="/register" target="_parent" id="register" onclick="return redirectURLCookie();">Register</a>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<input type="hidden" id="errorFlash" value="Testing : errros ===  &amp;&amp; Flasherrors1====  session ===== " />
+</div>
+
+        
+
+
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer="">
+</script>
+<script type="text/javascript">
+	var onloadCallback = function() {
+		if ($('#gRecaptcha') &amp;&amp; $('#gRecaptcha').val() != null &amp;&amp; $('#gRecaptcha').val() != undefined /* &amp;&amp; $('#gRecaptcha').val() != "" */) {
+			grecaptcha.render('gRecaptcha', { 'sitekey' : '6LcleDIUAAAAANqkex-vX88sMHw8FXuJQ3A4JKK9', 'expired-callback': expCallback });
+		}
+		if ($('#gQuickRecaptcha') &amp;&amp; $('#gQuickRecaptcha').val() != null &amp;&amp; $('#gQuickRecaptcha').val() != undefined /* &amp;&amp; $('#gQuickRecaptcha').val() != "" */) {
+			grecaptcha.render('gQuickRecaptcha', { 'sitekey' : '6LcleDIUAAAAANqkex-vX88sMHw8FXuJQ3A4JKK9', 'callback' : correctCaptcha, 'expired-callback' : expCallback});
+		}
+		if ($('#gRecaptchaContact') &amp;&amp; $('#gRecaptchaContact').val() != null &amp;&amp; $('#gRecaptchaContact').val() != undefined /* &amp;&amp; $('#gRecaptchaContact').val() != "" */) {
+			grecaptcha.render('gRecaptchaContact', { 'sitekey' : '6LcleDIUAAAAANqkex-vX88sMHw8FXuJQ3A4JKK9', 'expired-callback': expCallback });
+		}
+	};
+	var expCallback = function() {grecaptcha.reset();};
+	var correctCaptcha = function(response) {
+		if (response.length &gt; 0) {
+			$('#errorMsgID').hide();
+		}
+	};
+</script>
+<style>
+	@media (min-width: 992px) {
+		#search-toggle {
+		  display: block !important;
+		}
+	}
+
+	@media (max-width: 991px) {
+	  #search-toggle {
+	    display: none;
+	  }
+	}
+</style>
+<input type="hidden" id="userType" value="" />
+<input type="hidden" id="externalId" value="" />
+<input type="hidden" id="mobileAppStoreLink" value="https://c00.adobe.com/v3/d53bf41a-0d61-47b4-b7f1-6df9b46831cf/start?a_dl=58f0e9c6664752b90d3c200b" />
+<input type="hidden" id="careerPathFlagN" value="true" />
+<input type="hidden" id="pushNotificationFlag" value="false" />
+<input type="hidden" id="articlenotificationFlag" value="true" />
+<input type="hidden" id="articleDateCheckFlag" value="false" />
+
+    <script>$.get("https://www.dice.com/refresh/seeker");</script>
+
+
+<!-- <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=true&libraries=places&v=3.22"></script> -->
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?libraries=places&amp;v=3.28&amp;key=AIzaSyD8B6vEAOqsMlMp2UbY4JmZG2chO-seKkE"></script>
+<script src="//assets.dice.com/techpro/js/global/login-dialog.js"></script>
+<script src="https://apis.google.com/js/api:client.js" gapi_processed="true"></script>
+
+
+<script src="//assets.dice.com/techpro/js/global/header-notification.js"></script>
+<script>_satellite.pageBottom()</script><script src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-56d7731b64746d57d9002a80.js"></script>
+
+        <!-- /4140/Dice/Dice_WelcomeAd Peel Related-->
+        
+        <script>
+            var homepageArticles = [];
+            
+                homepageArticles.push({
+                    title: 'WWDC 2018: Expectations (and Hints of Marzipan)',
+                    description: 'Apple&amp;#039;s huge developer conference is a chance to see what&amp;#039;s coming.',
+                    link: 'https://insights.dice.com/2018/05/22/wwdc-2018-expectations-hints-marzipan/',
+                    bannerImage: '',
+                    alt: 'Apple WWDC 2015 Marzipan',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+                homepageArticles.push({
+                    title: 'How to Drop Out of the Hiring Process Without Burning Bridges',
+                    description: 'Don&amp;#039;t want the job? Here&amp;#039;s how to bow out.',
+                    link: 'https://insights.dice.com/2018/05/22/how-to-drop-out-of-the-hiring-process-without-burning-bridges/',
+                    bannerImage: '',
+                    alt: '',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+                homepageArticles.push({
+                    title: 'iOS Developer Interview Questions: Mastering the Trickier Ones',
+                    description: 'These days, iOS is a mature (and complicated) development environment.',
+                    link: 'https://insights.dice.com/2018/05/22/ios-developer-interview-questions-mastering-trickier-ones/',
+                    bannerImage: '',
+                    alt: '',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+                homepageArticles.push({
+                    title: 'Java Developer Résumé: How to Make Yours Awesome',
+                    description: 'Résumés are how you make your first impression when applying for a job.',
+                    link: 'https://insights.dice.com/2018/05/21/java-developer-resume-2018/',
+                    bannerImage: '',
+                    alt: 'Java Develoepr Resume Dice',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+                homepageArticles.push({
+                    title: 'Survey: Do You Even Care About Cryptocurrency?',
+                    description: 'Is cryptocurrency cool, or is blockchain the real winner?',
+                    link: 'https://insights.dice.com/2018/05/21/cryptocurrency-blockchain-survey/',
+                    bannerImage: '',
+                    alt: 'Cryptocurrency Bitcoin Blockchain Dice',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+                homepageArticles.push({
+                    title: 'Apple Considering North Carolina Research Campus: Reports',
+                    description: 'Apple&amp;#039;s new facility could employ up to 10,000 tech pros.',
+                    link: 'https://insights.dice.com/2018/05/21/apple-considering-north-carolina-research-campus-reports/',
+                    bannerImage: '',
+                    alt: '',
+                    bannerImageSmall: '',
+                    altSmall: ''
+                });
+            
+        </script>
+
+        <script>
+            $.get('/refresh/seeker');
+        </script>
+
+        <!-- <script src="//assets.dice.com/techpro/js/homepage/universalLoginPanel-homepage.js"></script> -->
+
+        <script src="//assets.dice.com/techpro/js/global/bootstrap-typeahead-custom.min.js"></script>
+        <script>google.maps || document.write(unescape('%3Cscript%20src%3D%22//maps.googleapis.com/maps/api/js%3Fsensor%3Dtrue%26libraries%3Dplaces%26v%3D3.28%22%3E%3C/script%3E'));</script>
+        <!-- <script async src="//assets.dice.com/techpro/js/homepage/homepage_v2.js"></script> -->
+        <script src="//assets.dice.com/techpro/js/homepage/homepagev2.Concat.js"></script>
+        <!-- <script src="//assets.dice.com/techpro/js/global/diceTechPro.js"></script> -->
+        <!-- <script src="//assets.dice.com/techpro/js/global/cookieConsent.js"></script> -->
+        <script>
+            // fake omniture s_code
+            var s = {
+                t: function () {}
+            };
+        </script>
+    </div><iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_diceholdings_0" name="destination_publishing_iframe_diceholdings_0_name" src="https://diceholdings.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.dice.com%2F" style="display: none; width: 0px; height: 0px;" class="aamIframeLoaded"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5409fb48142fed9c7d0000bb.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-55f9ba9a666132224a0009ba.html" style="display: none;"></iframe>
+
+<iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-536aabda8d9b257efa000577.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5787f26464746d29bf000d84.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-57c4744b64746d7a9c0076ea.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-57d70fdd64746d7a9600e739.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-57d70fdd64746d7a9600e73a.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-53c6c310eb9e1ca6890002af.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-549896523432310015e10100.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-54c298ac6538320018ec0200.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-5511bc1f62333440a12c0200.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-55a8260536393400140007b3.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-563bfac164746d1dae004cb7.html" style="display: none;"></iframe><iframe src="https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-56c2201e64746d6dd0002c5b.html" style="display: none;"></iframe><img style="display:none" alt="" aria-hidden="true" id="db_pixel_ad" src="https://d.company-target.com/pixel?type=js&amp;id=1441303639&amp;page=https%3A%2F%2Fwww.dice.com%2F" /><img style="display:none" alt="" aria-hidden="true" id="db_pixel_cn" src="https://d.company-target.com/pixel?type=js&amp;id=1477506958&amp;page=https%3A%2F%2Fwww.dice.com%2F" /><img style="display:none" alt="" aria-hidden="true" id="db_bw_pixel_ad" src="https://match.prod.bidr.io/cookie-sync/demandbase" /><img style="display:none" alt="" aria-hidden="true" id="db_lr_pixel_ad" src="https://id.rlcdn.com/464526.gif" /><iframe src="//jsv3.recruitics.com/b6f8abeb-6d54-11e7-8347-d58e52b2edec-iframe?e=%7B%22viewer%22%3A%7B%22v2_first%22%3Anull%2C%22v2_local%22%3Anull%2C%22v3_first%22%3Anull%2C%22v3_local%22%3Anull%2C%22v3_param%22%3Anull%7D%2C%22referrer%22%3A%22%22%2C%22title%22%3A%22Job%20Search%20for%20Technology%20Professionals%20%7C%20Dice.com%22%2C%22eventType%22%3A%22pageview%22%2C%22pageType%22%3A%22All%20Other%20Pages%22%2C%22scriptId%22%3A%22b6f8abeb-6d54-11e7-8347-d58e52b2edec%22%2C%22cid%22%3A242%2C%22jobId%22%3Anull%2C%22uri%22%3A%22https%3A%2F%2Fwww.dice.com%2F%22%2C%22hasCustomJs%22%3Atrue%2C%22nvp%22%3A%7B%7D%7D" style="display: none;"></iframe><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5712321"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&amp;&amp;s!=="loaded"&amp;&amp;s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><div class="usabilla_live_button_container" tabindex="0" style="z-index:999;right:0;top:50%;margin-top:-65px;width:40px;height:130px;position:fixed" aria-label="Usabilla Feedback Button"><iframe src="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-tags="right" title="Usabilla Feedback Button" style="width: 40px; height: 130px; margin: 0px; padding: 0px; border: 0px; overflow: hidden; z-index: 9998; position: absolute; left: 0px; top: 0px; box-shadow: 0px 0px 0px; background-color: transparent;"></iframe></div><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.2426174429991128"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.15293421485811187" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=5712321&amp;Ver=2&amp;mid=29d021ef-361b-035c-6ed3-53f2e64d437f&amp;evt=pageLoad&amp;sid=22887d3a-1&amp;lt=7765&amp;pi=-1978200868&amp;lg=en-US&amp;sw=1536&amp;sh=864&amp;sc=24&amp;tl=Job%20Search%20for%20Technology%20Professionals%20%7C%20Dice.com&amp;p=https%3A%2F%2Fwww.dice.com%2F&amp;r=&amp;msclkid=N&amp;rn=51891" /></div><div><div id="overlay_DFP" style="position: fixed; width: 100%; height: 100%; top: 0px; z-index: 2147483644; display: none;"><div id="close_DFP_btn">Close X</div><div id="overlay_form_DFP"><span style="top:-30px; position:absolute; text-align:center;color:white; width:100%;font-size:12px !important">Advertisement</span><div id="interContent_DFP"><a href="https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsv89PcO9aCDmmzxWQ5b9J2Ew9R9t1YWkduyJ3enjnNVs51UBgXiJqegpPKnsRKSu9ikphPm5Oxw3NJoDsVHe-iec8gel1XAimTk774P2L-62cz_qjB-xxwHxAvJibaeKK8ONjW2TIcY9C2R4_lqcrQrltdxnUvXP8G4_x4mo2V1AsME2hcQ-mjJYBtf15fx20NxXHSkq7NocahQo1SQOx_HEkr-qoCydo5Au6iieGXC2kdX0rkBVF4%2526sai%253DAMfl-YSAMhEoyPV8YOb9T4jQ5W0O8IQbfCksyQtF6ak9rQ_ETxzkaMaKOSWd0URW7fAc3n8uqIgSL5sXtPnu3hapW6htAHTK-0O-hH6Bo92LUEmPkoBsF3RXEvqU3q0%2526sig%253DCg0ArKJSzLxfxyr6A-kWEAE%2526urlfix%253D1%2526adurl%253Dhttps://www2.deloitte.com/us/en/pages/careers/topics/careers.html?icid=nav2_careers" target="_blank"><img src="https://tpc.googlesyndication.com/pagead/imgad?id=CICAgKCriL7ztwEQARgBMgikP538f1KlPg" alt="Image" /></a></div></div><div id="overlay_DFP_bg"></div></div></div><img src="https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss_3U9Rxsb786-oGC2fnsRRYeHvwx6Sujj_lHSL1lFJaBkKM1QLFnhn9YzReiz0jDCVhWAbOM4ZgryuOS8OkfKWqPLdu1gC8FAAi8CQGO6VN3zkBWhEvB2OPh-VrgadIwzgwCaOzTchurndXe_vorw6sOU5jM6LT6uLV2EL4UAKNmn3BFn-FDfj-oQsLrkgvsQLDjW-918-SlM7Kd3kZV82ELihtaMSaHXf2ek-soGhUo1JSXm-o3SfLfTbaEMrRIHJOwZrDTxNzWxF9w&amp;sai=AMfl-YRPD8daqXtUes9e8rn_ZR2IzCM4sBrSX2peuo5c5F05_3ngMG1I7MfmME3vqF-sRjEzZPvQ00lt15gR_KhnUqVEIDZWtZP8BDXYAZnGKsV9F9mRu0vc4vcQdbE&amp;sig=Cg0ArKJSzFMFj_Nxkr1zEAE&amp;urlfix=1&amp;adurl=" width="1" height="1" id="thirdParty_DFPP" /><iframe id="google_osd_static_frame_9885458164775" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

@@ -1,0 +1,64 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Send GET request for 5 name",
+        "description": "",
+        "id": "testing-uinames-api;send-get-request-for-5-name",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3874845403,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user sends a request for 5 name",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 29
+                }
+              ],
+              "location": "UINamesStepDef.the_user_sends_a_request_for_name(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3478108,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the server should send back 5 name",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 28
+                }
+              ],
+              "location": "UINamesStepDef.the_server_should_send_back_name(int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@UINAMES"
+          }
+        ]
+      }
+    ],
+    "name": "TESTING UINAMES API",
+    "description": "  USERS SHOULD BE ABLE TO SUBMIT GET AND POST REQUESTS TO THE UINAMES WEB SERVICE",
+    "id": "testing-uinames-api",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/UINames.feature",
+    "tags": []
+  }
+]
