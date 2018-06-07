@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="474e00ba-036a-4955-b663-ee43b1e69a96" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-application.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f_screenshots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dice/RunCukes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dice/RunCukes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dice/pages/DiceHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dice/pages/DiceHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/UINames.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/UINames.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiceHomePage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiceHomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
@@ -68,6 +56,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serenity.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/serenity.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -99,13 +96,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/dice/utilities/HomePageConstants.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dice/stepdefs/UINamesStepDef.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/dice/serenitysteps/UINamesSerenitySteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dice/tests/Collect.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/UINames.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/features/UIErrorMessage.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/dice/RunCukes.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
       </list>
     </option>
   </component>
@@ -432,7 +429,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.409621" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27259475" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27259475" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980695" visible="true" weight="0.33065057" />
       <window_info id="Learn" order="2" />
@@ -665,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/utilities/HomePageConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -721,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/RunCukes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/SleepInAndStillUpdateResume.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -753,6 +736,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/RunCukes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
