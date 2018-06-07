@@ -33,7 +33,7 @@ public class DiceHomePage extends PageObject {
     public WebElementFacade updateResume;
 
     public void fileUpload(){
-        StringSelection path = new StringSelection("C:/Users/Dell_J/Dropbox/Resume/JamesLacsonResume2018.pdf");
+        StringSelection path = new StringSelection("C:\\Resume\\JamesLacsonResume2018.pdf");
         updateResume.click();
         Toolkit.getDefaultToolkit().getSystemClipboard().setContents(path,null);
         //paste

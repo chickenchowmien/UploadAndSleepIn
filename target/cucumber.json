@@ -1,64 +1,76 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
-        "line": 6,
-        "name": "Send GET request for 5 name",
+        "line": 3,
+        "name": "As a human being, I should be able to sleep in, and receive the same opportunities as those \"morning people\"",
         "description": "",
-        "id": "testing-uinames-api;send-get-request-for-5-name",
+        "id": "sleep-in-and-resume-still-updates;as-a-human-being--i-should-be-able-to-sleep-in--and-receive-the-same-opportunities-as-those-\"morning-people\"",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 3874845403,
+              "duration": 13469981696,
               "status": "passed"
             },
-            "line": 7,
-            "name": "the user sends a request for 5 name",
+            "line": 4,
+            "name": "the user is on Dice.com",
             "match": {
-              "arguments": [
-                {
-                  "val": "5",
-                  "offset": 29
-                }
-              ],
-              "location": "UINamesStepDef.the_user_sends_a_request_for_name(int)"
+              "location": "SleepInStepDef.the_user_is_on_Dice_com()"
             },
-            "keyword": "When "
+            "keyword": "Given "
           },
           {
             "result": {
-              "duration": 3478108,
+              "duration": 9841243361,
               "status": "passed"
             },
-            "line": 8,
-            "name": "the server should send back 5 name",
+            "line": 5,
+            "name": "they log in",
             "match": {
-              "arguments": [
-                {
-                  "val": "5",
-                  "offset": 28
-                }
-              ],
-              "location": "UINamesStepDef.the_server_should_send_back_name(int)"
+              "location": "SleepInStepDef.they_log_in()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3624373274,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "go to the profile page",
+            "match": {
+              "location": "SleepInStepDef.go_to_the_profile_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6009934826,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the resume should be updated while I\u0027m sound asleep",
+            "match": {
+              "location": "SleepInStepDef.the_resume_should_be_updated_while_I_m_sound_asleep()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@UINAMES"
+            "name": "@dice"
           }
         ]
       }
     ],
-    "name": "TESTING UINAMES API",
-    "description": "  USERS SHOULD BE ABLE TO SUBMIT GET AND POST REQUESTS TO THE UINAMES WEB SERVICE",
-    "id": "testing-uinames-api",
+    "name": "Sleep in and resume still updates",
+    "description": "",
+    "id": "sleep-in-and-resume-still-updates",
     "keyword": "Feature",
-    "uri": "src/test/resources/features/UINames.feature",
+    "uri": "src/test/resources/features/SleepInAndStillUpdateResume.feature",
     "tags": []
   }
 ]

@@ -1,35 +1,55 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/resources/features/UINames.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/resources/features/SleepInAndStillUpdateResume.feature");
 formatter.feature({
-  "name": "TESTING UINAMES API",
-  "description": "  USERS SHOULD BE ABLE TO SUBMIT GET AND POST REQUESTS TO THE UINAMES WEB SERVICE",
+  "name": "Sleep in and resume still updates",
+  "description": "",
   "keyword": "Feature"
 });
 formatter.scenario({
-  "name": "Send GET request for 5 name",
+  "name": "As a human being, I should be able to sleep in, and receive the same opportunities as those \"morning people\"",
   "description": "",
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@UINAMES"
+      "name": "@dice"
     }
   ]
 });
 formatter.step({
-  "name": "the user sends a request for 5 name",
-  "keyword": "When "
+  "name": "the user is on Dice.com",
+  "keyword": "Given "
 });
 formatter.match({
-  "location": "UINamesStepDef.the_user_sends_a_request_for_name(int)"
+  "location": "SleepInStepDef.the_user_is_on_Dice_com()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "the server should send back 5 name",
+  "name": "they log in",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "SleepInStepDef.they_log_in()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "go to the profile page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "SleepInStepDef.go_to_the_profile_page()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "the resume should be updated while I\u0027m sound asleep",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "UINamesStepDef.the_server_should_send_back_name(int)"
+  "location": "SleepInStepDef.the_resume_should_be_updated_while_I_m_sound_asleep()"
 });
 formatter.result({
   "status": "passed"

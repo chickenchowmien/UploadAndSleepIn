@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="474e00ba-036a-4955-b663-ee43b1e69a96" name="Default" comment="" />
+    <list default="true" id="474e00ba-036a-4955-b663-ee43b1e69a96" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-application.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-52273e58d125ed027c86cedeb8f8236692e7cd15e497947fc9cb30dec0a8174f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dice/RunCukes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dice/RunCukes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dice/pages/DiceHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dice/pages/DiceHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/UINames.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/UINames.feature" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/SleepInAndStillUpdateResume.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -25,7 +39,7 @@
       <file leaf-file-name="SleepInSerenitySteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/serenitysteps/SleepInSerenitySteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="663">
               <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
             </state>
           </provider>
@@ -34,8 +48,8 @@
       <file leaf-file-name="DiceHomePage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+            <state relative-caret-position="159">
+              <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -72,6 +86,9 @@
       <find>surname</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -105,12 +122,14 @@
     <option name="width" value="3875" />
     <option name="height" value="2195" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,11 +232,20 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JobBoardAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobBoardAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,17 +254,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.dice.utilities" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\test\resources\drivers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\test\resources\Files" />
       <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\test\java\com\dice" />
       <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation" />
       <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\main\resources" />
       <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\test\resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dell_J\Intellij Projects\JobBoardAutomation\src\test\resources\drivers" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dice.utilities" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Collect">
+  <component name="RunManager" selected="JUnit.RunCukes">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -345,8 +374,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Collect" />
         <item itemvalue="JUnit.RunCukes" />
+        <item itemvalue="JUnit.Collect" />
       </list>
     </recent_temporary>
   </component>
@@ -361,9 +390,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Collect - 2018.05.29 at 11h 29m 05s.xml">
-      <configuration name="Collect" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Collect - 2018.05.29 at 11h 30m 08s.xml">
       <configuration name="Collect" configurationId="JUnit" />
     </history-entry>
@@ -391,6 +417,9 @@
     <history-entry file="Collect - 2018.05.30 at 22h 19m 46s.xml">
       <configuration name="Collect" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunCukes - 2018.06.03 at 19h 48m 45s.xml">
+      <configuration name="RunCukes" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -401,11 +430,11 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.409621" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30174926" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27259475" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980695" visible="true" weight="0.3212609" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980695" visible="true" weight="0.33065057" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" sideWeight="0.5019305" side_tool="true" weight="0.24949698" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -434,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,9 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="28" column="16" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/SleepInAndStillUpdateResume.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -733,15 +744,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/serenitysteps/SleepInSerenitySteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="663">
           <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dice/pages/DiceHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+        <state relative-caret-position="159">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
         </state>
       </provider>
     </entry>
