@@ -10,7 +10,7 @@ import org.openqa.selenium.Keys;
 
 public class SleepInSerenitySteps extends ScenarioSteps {
     final static Logger logger = Logger.getLogger(SleepInSerenitySteps.class);
-    final static String email = "JamesLacson@icloud.com";
+    final static String email = "JamesMichaelLacson@gmail.com";
     final static String password = "Hjkl-10108586";
     DiceHomePage diceHomePage;
 
